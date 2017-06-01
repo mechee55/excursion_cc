@@ -13,11 +13,14 @@ body {
 }
 
 .header p {
-
+	color: aquamarine;
+	font-size: 16px;
 }
 
-
-
+.download p {
+	color: aquamarine;
+	font-size: 16px;
+}
 
 .personal-guide h3 {
 	color: white;
@@ -30,9 +33,6 @@ body {
 	color: gray;
 }
 
-
-
-}
 
 .copy-right p {
 	text-align: right;
